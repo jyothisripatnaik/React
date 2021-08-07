@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81b64325.chunk.css",
+    "main.js": "/static/js/main.2c0833c5.chunk.js",
+    "main.js.map": "/static/js/main.2c0833c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05232dac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05232dac.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.150050cd.chunk.js": "/static/js/2.150050cd.chunk.js",
+    "static/js/2.150050cd.chunk.js.map": "/static/js/2.150050cd.chunk.js.map",
+    "static/js/3.881d87b9.chunk.js": "/static/js/3.881d87b9.chunk.js",
+    "static/js/3.881d87b9.chunk.js.map": "/static/js/3.881d87b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.81b64325.chunk.css.map": "/static/css/main.81b64325.chunk.css.map",
+    "static/js/2.150050cd.chunk.js.LICENSE.txt": "/static/js/2.150050cd.chunk.js.LICENSE.txt",
+    "static/media/TFA-LOGO-VIDEO.1670272f.gif": "/static/media/TFA-LOGO-VIDEO.1670272f.gif",
+    "static/media/Technology-For-All-Logo.f8c4016c.svg": "/static/media/Technology-For-All-Logo.f8c4016c.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/servises1.98c64808.png": "/static/media/servises1.98c64808.png",
+    "static/media/servises2.5066fe42.png": "/static/media/servises2.5066fe42.png",
+    "static/media/servises3.e89e1b6b.png": "/static/media/servises3.e89e1b6b.png",
+    "static/media/App.css": "/static/media/why-tfa-bg.2a1331d1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05232dac.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.150050cd.chunk.js",
+    "static/css/main.81b64325.chunk.css",
+    "static/js/main.2c0833c5.chunk.js"
+  ]
+}
